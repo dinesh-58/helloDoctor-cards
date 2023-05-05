@@ -1,8 +1,8 @@
 import './Cards.css'
-import rightArrow from './src/right-arrow.png'
-import cardImg1 from './src/card1.png'
-import cardImg2 from './src/card2.png'
-import cardImg3 from './src/card3.png'
+import rightArrow from './images//right-arrow.png'
+import cardImg1 from './images/card1.png'
+import cardImg2 from './images/card2.png'
+import cardImg3 from './images/card3.png'
 
 export default function Cards() {
     // image of doctors should be background image?
